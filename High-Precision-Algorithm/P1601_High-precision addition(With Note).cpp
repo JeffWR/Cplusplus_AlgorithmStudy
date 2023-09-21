@@ -1,3 +1,14 @@
+/*
+Question: Given two non-negative integers (10^500), find their sum
+Test_1:
+    Input: 2 2
+    Output: 4
+Test_2:
+    Input: 75640238654829564289 89745826597482754823
+    Output: 165386065252312319112
+
+(This is an optimization of addition so even addition of very large numbers can be done in a instance)
+    */
 #include <iostream>
 #include <cmath>
 #include <algorithm>
