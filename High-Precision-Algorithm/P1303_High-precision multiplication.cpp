@@ -1,3 +1,14 @@
+/*
+Question: Given two non-negative integers (10^2000), find their product
+Test_1:
+    Input: 2 2
+    Output: 4
+Test_2:
+    Input: 75640238654829564289 89745826597482754823
+    Output: 6788395742108546303293147598936503315847
+
+(This is an optimization of multiplication so even multiplication of very large numbers can be done in a instance)
+    */
 #include <iostream>
 #include <cstdio>
 #include <cstring>
