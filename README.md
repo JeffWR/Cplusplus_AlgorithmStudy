@@ -25,12 +25,13 @@ Including codes for simulation of different situation of the questions, and some
   Computer programming technique where an algorithmic problem is first broken down into sub-problems, the results are saved, and then the sub-problems are optimized to find the overall solution-spicework
   
 2.**Advance Search(DFS&BFS)**
-  -DFS (Depth-first Search): Algorithms that search in depth in one path and step back to the last branch if the result is incorrect
-  -BFS (Breadth-first Search): Algorithms that note each posible
+  * DFS (Depth-first Search): Algorithms that search in depth in one path and step back to the last branch if the result is incorrect
+  * BFS (Breadth-first Search): Algorithms that note each posible step that is avaliable to get the solution
 3.**High Precision**
-
+  Using chart variable to calculate numbers
 4.**Binary Tree**
-
+  Using the property of binary tree to solve problems
+  
 ### Advance++ algorithms include:
 This part is very hard for me and I still did not understand fully so I will not try to explain it (This part are algorithms that I am learning)
 
