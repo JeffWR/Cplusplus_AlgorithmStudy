@@ -12,12 +12,13 @@ Including codes for simulation of different situation of the questions, and some
 
 3.**Sorting**
   (This isn't finish)
-  Include different sorting methods like 
+  Include different sorting methods like Bubble Sort, Selection Sort, Insertion Sort, Quick Sort, and Counting Sort
 
 4.**Greedy**
   Algorithms that solves the problem by always choosing the best and most optimal option at the moment
   
-5.**Binary**
+5.**Binary Search**
+  Binary search is an algorithm that sorts arrays by repeatedly dividing the interval in half
 
 ### Advance algorithms include:
 1.**Dynamic Programming(DP)**
