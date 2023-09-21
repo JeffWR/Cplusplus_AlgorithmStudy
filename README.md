@@ -8,8 +8,24 @@ Including codes for simulation of different situation of the questions, and some
   Refers to the study of the strategies of relevant parties in a game between multiple individuals or teams under specific conditions, and the implementation of corresponding strategies.
   
 2.**Recursion**
+  Refers to a function that calls itsef until certain condition is meet
 
+3.**Sorting**
 
-3.**Recursion**
+4.**Greedy**
 
-4.**Sorting**
+5.**Binary**
+
+### Advance algorithms include:
+1.**Dynamic Programming(DP)**
+  
+2.**Advance Search(DFS&BFS)**
+
+3.**High Precision**
+
+4.**Binary Tree**
+
+### Advance++ algorithms include:
+1.**Lowest Common Ancestor**
+
+2.**Graph Theory**
