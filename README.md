@@ -11,9 +11,12 @@ Including codes for simulation of different situation of the questions, and some
   Refers to a function that calls itsef until certain condition is meet
 
 3.**Sorting**
+  (This isn't finish)
+  Include different sorting methods like 
 
 4.**Greedy**
-
+  Algorithms that solves the problem by always choosing the best and most optimal option at the moment
+  
 5.**Binary**
 
 ### Advance algorithms include:
