@@ -22,14 +22,17 @@ Including codes for simulation of different situation of the questions, and some
 
 ### Advance algorithms include:
 1.**Dynamic Programming(DP)**
+  Computer programming technique where an algorithmic problem is first broken down into sub-problems, the results are saved, and then the sub-problems are optimized to find the overall solution-spicework
   
 2.**Advance Search(DFS&BFS)**
-
+  -DFS (Depth-first Search): Algorithms that search in depth in one path and step back to the last branch if the result is incorrect
+  -BFS (Breadth-first Search): Algorithms that note each posible
 3.**High Precision**
 
 4.**Binary Tree**
 
 ### Advance++ algorithms include:
-1.**Lowest Common Ancestor**
+This part is very hard for me and I still did not understand fully so I will not try to explain it (This part are algorithms that I am learning)
 
+1.**Lowest Common Ancestor**
 2.**Graph Theory**
